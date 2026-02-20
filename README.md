@@ -1,9 +1,9 @@
-### Hi there, I'm Marcos Higildo 👋
+### Hi there, I'm Marcos Higildo 
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Tech%20Explorer&fontSize=40&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-## 🚀 About Me
+## About Me
 I'm an **IT Student** driven by curiosity and the challenge of understanding how systems work from the kernel to the interface. I don't limit myself to one stack; I'm a tech explorer passionate about:
 
 * **💻 Software Development:** Building full-stack solutions with a focus on performance.
@@ -12,7 +12,7 @@ I'm an **IT Student** driven by curiosity and the challenge of understanding how
 * **⚙️ Low-Level Interest:** I love "breaking" things to understand how to fix them better.
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarcosHigildo-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcosHigildo-hub&layout=compact&theme=tokyonight&langs_count=6" />
